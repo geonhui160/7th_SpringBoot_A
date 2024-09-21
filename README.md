@@ -1,6 +1,6 @@
-# 7th-Android
+# 7th-SpringBoot
 
-# 💚 UMC MJU 7th_Android
+# 💚 UMC MJU 7th_SpringBoot - 인문
 
 [UMC MJU 7th를 위한 깃허브 사용법 및 규칙](https://www.notion.so/makeus-challenge/UMC-MJU-GITHUB-RULE-b45c0d968a1a4fb789c67f3b0081ce17?pvs=4)
 
@@ -38,13 +38,9 @@ Copyright © Sojung Park (Bei) All rights reserved.
 
 
 ## 🍀 Members
-| [![텍스트](https://avatars.githubusercontent.com/u/128218483?v=4)](https://github.com/saojaem) | [![텍스트](https://avatars.githubusercontent.com/u/164713708?v=4)](https://github.com/L3416yst) | [![텍스트](https://avatars.githubusercontent.com/u/150216299?v=4)](https://github.com/thos0412) | [![텍스트](https://avatars.githubusercontent.com/u/111961655?v=4)](https://github.com/starshape7) |
-|:---:|:---:|:---:|:---:|
-| 해리/박상재 | 윤슬/이윤서 | 주니/임준희 | 우연/추연우 |
-
-| [![텍스트](https://avatars.githubusercontent.com/u/113087916?v=4)](https://github.com/m01310g) | [![텍스트](https://avatars.githubusercontent.com/u/163288437?v=4)](https://github.com/eunsol1530) | [![텍스트](https://avatars.githubusercontent.com/u/155813460?v=4)](https://github.com/fredleeJH) |
-|:---:|:---:|:---:|
-| 도리/김민경 | 언스/김은솔 | 프레드/이종훈 |
+| [![텍스트](https://avatars.githubusercontent.com/u/111961655?v=4)](https://github.com/starshape7) | [![텍스트](https://avatars.githubusercontent.com/u/71001678?v=4)](https://github.com/win9-tech) | [![텍스트](https://github.com/user-attachments/assets/1de9a92f-0662-4f6c-b0dd-7acf2167c934)](https://github.com/geonhui160) | [![텍스트](https://avatars.githubusercontent.com/u/82094699?v=4)](https://github.com/Ochangmin524) | [![텍스트](https://github.com/user-attachments/assets/c32566d2-3204-49f3-a3cb-e3c6e17be95d)](https://github.com/qwejiung) |
+|:---:|:---:|:---:|:---:|:---:|
+| 우연/추연우 | 한/한승규 | 건/강건희 | 티미/오창민 | 감자/김지웅 |
 
 <br>
 
